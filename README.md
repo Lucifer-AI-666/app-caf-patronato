@@ -24,6 +24,7 @@ Una piattaforma digitale pensata per gestire servizi CAF e Patronato da smartpho
 - Registrarsi in modo semplice
 - Accedere con SPID/CIE o altri metodi previsti
 - Scegliere il servizio da richiedere
+- 🤖 **Raccontare il proprio problema all'Assistente IA** e ricevere i servizi su misura, nella propria lingua
 - Caricare documenti in foto o PDF
 - Seguire lo stato della pratica in tempo reale
 - Ricevere notifiche, messaggi e promemoria
@@ -45,6 +46,7 @@ Semplificare la gestione delle pratiche CAF e Patronato, ridurre tempi e passagg
 | [docs/05-backoffice-integrazioni.md](docs/05-backoffice-integrazioni.md) | Area operatore e integrazioni esterne |
 | [docs/06-sicurezza-compliance.md](docs/06-sicurezza-compliance.md) | Sicurezza, GDPR e compliance |
 | [docs/07-tecnica-e-roadmap.md](docs/07-tecnica-e-roadmap.md) | Architettura tecnica, monetizzazione e roadmap |
+| [docs/08-assistente-ia.md](docs/08-assistente-ia.md) | Assistente IA cognitivo multilingua |
 
 ## Stato del progetto
 

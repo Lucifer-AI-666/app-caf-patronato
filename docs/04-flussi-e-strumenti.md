@@ -21,6 +21,7 @@ Ogni pratica resta **tracciata e consultabile** nello storico.
 
 ## Strumenti smart
 
+- 🤖 **Assistente IA cognitivo** — finestra intelligente che trova i servizi su misura partendo dal racconto dell'utente, nella sua lingua → vedi [docs/08-assistente-ia.md](08-assistente-ia.md)
 - **Scanner documenti** integrato
 - **Compilazione assistita** con AI / suggerimenti
 - **Calcolo ISEE / simulazioni**
