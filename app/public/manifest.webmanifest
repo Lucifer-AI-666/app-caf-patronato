@@ -1,0 +1,19 @@
+{
+  "name": "CAF & Patronato in Tasca",
+  "short_name": "CAF in Tasca",
+  "description": "Servizi CAF, Patronato e immigrazione sul tuo smartphone, con un assistente che parla la tua lingua.",
+  "lang": "it",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fcfbff",
+  "theme_color": "#8c34ea",
+  "categories": ["government", "finance", "utilities"],
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
